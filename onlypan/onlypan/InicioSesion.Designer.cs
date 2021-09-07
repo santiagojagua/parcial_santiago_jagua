@@ -63,6 +63,7 @@ namespace onlypan
             this.btnInicioSesion.TabIndex = 2;
             this.btnInicioSesion.Text = "Iniciar Sesión";
             this.btnInicioSesion.UseVisualStyleBackColor = true;
+            this.btnInicioSesion.Click += new System.EventHandler(this.btnInicioSesion_Click);
             // 
             // lblContraseña
             // 
