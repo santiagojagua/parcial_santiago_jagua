@@ -1,0 +1,11 @@
+E:\programas u\parcial_zulu\onlypan\onlypan\bin\Debug\onlypan.exe.config
+E:\programas u\parcial_zulu\onlypan\onlypan\bin\Debug\onlypan.exe
+E:\programas u\parcial_zulu\onlypan\onlypan\bin\Debug\onlypan.pdb
+E:\programas u\parcial_zulu\onlypan\onlypan\obj\Debug\onlypan.csproj.AssemblyReference.cache
+E:\programas u\parcial_zulu\onlypan\onlypan\obj\Debug\onlypan.Form1.resources
+E:\programas u\parcial_zulu\onlypan\onlypan\obj\Debug\onlypan.InicioSesion.resources
+E:\programas u\parcial_zulu\onlypan\onlypan\obj\Debug\onlypan.Properties.Resources.resources
+E:\programas u\parcial_zulu\onlypan\onlypan\obj\Debug\onlypan.csproj.GenerateResource.cache
+E:\programas u\parcial_zulu\onlypan\onlypan\obj\Debug\onlypan.csproj.CoreCompileInputs.cache
+E:\programas u\parcial_zulu\onlypan\onlypan\obj\Debug\onlypan.exe
+E:\programas u\parcial_zulu\onlypan\onlypan\obj\Debug\onlypan.pdb

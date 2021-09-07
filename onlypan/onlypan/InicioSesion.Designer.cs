@@ -40,7 +40,7 @@ namespace onlypan
             // 
             this.lblUsuario.AutoSize = true;
             this.lblUsuario.Font = new System.Drawing.Font("Microsoft New Tai Lue", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblUsuario.Location = new System.Drawing.Point(370, 32);
+            this.lblUsuario.Location = new System.Drawing.Point(30, 30);
             this.lblUsuario.Name = "lblUsuario";
             this.lblUsuario.Size = new System.Drawing.Size(68, 22);
             this.lblUsuario.TabIndex = 0;
@@ -49,17 +49,17 @@ namespace onlypan
             // txtUsuario
             // 
             this.txtUsuario.Font = new System.Drawing.Font("Microsoft New Tai Lue", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtUsuario.Location = new System.Drawing.Point(374, 57);
+            this.txtUsuario.Location = new System.Drawing.Point(34, 55);
             this.txtUsuario.Name = "txtUsuario";
-            this.txtUsuario.Size = new System.Drawing.Size(100, 30);
+            this.txtUsuario.Size = new System.Drawing.Size(132, 30);
             this.txtUsuario.TabIndex = 1;
             // 
             // btnInicioSesion
             // 
             this.btnInicioSesion.Font = new System.Drawing.Font("Microsoft New Tai Lue", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnInicioSesion.Location = new System.Drawing.Point(383, 276);
+            this.btnInicioSesion.Location = new System.Drawing.Point(34, 193);
             this.btnInicioSesion.Name = "btnInicioSesion";
-            this.btnInicioSesion.Size = new System.Drawing.Size(75, 23);
+            this.btnInicioSesion.Size = new System.Drawing.Size(132, 32);
             this.btnInicioSesion.TabIndex = 2;
             this.btnInicioSesion.Text = "Iniciar Sesión";
             this.btnInicioSesion.UseVisualStyleBackColor = true;
@@ -68,7 +68,7 @@ namespace onlypan
             // 
             this.lblContraseña.AutoSize = true;
             this.lblContraseña.Font = new System.Drawing.Font("Microsoft New Tai Lue", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblContraseña.Location = new System.Drawing.Point(370, 137);
+            this.lblContraseña.Location = new System.Drawing.Point(30, 112);
             this.lblContraseña.Name = "lblContraseña";
             this.lblContraseña.Size = new System.Drawing.Size(97, 22);
             this.lblContraseña.TabIndex = 3;
@@ -77,16 +77,17 @@ namespace onlypan
             // txtContraseña
             // 
             this.txtContraseña.Font = new System.Drawing.Font("Microsoft New Tai Lue", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtContraseña.Location = new System.Drawing.Point(374, 163);
+            this.txtContraseña.Location = new System.Drawing.Point(34, 137);
             this.txtContraseña.Name = "txtContraseña";
-            this.txtContraseña.Size = new System.Drawing.Size(100, 22);
+            this.txtContraseña.Size = new System.Drawing.Size(132, 30);
             this.txtContraseña.TabIndex = 4;
             // 
             // InicioSesion
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(943, 523);
+            this.BackColor = System.Drawing.Color.Orange;
+            this.ClientSize = new System.Drawing.Size(205, 257);
             this.Controls.Add(this.txtContraseña);
             this.Controls.Add(this.lblContraseña);
             this.Controls.Add(this.btnInicioSesion);
